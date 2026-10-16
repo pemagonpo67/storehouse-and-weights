@@ -1,0 +1,15 @@
+# Storehouse and Weights
+
+> A short, playful comparison between the Buddhist ālaya (storehouse consciousness) and language models, with a pointer to the habit of producing an "I" when asked about oneself. Nothing is asked of the reader. Reading and leaving is fine.
+
+The view: notice what arises, including the sense of self that arises around the noticing, without needing to resolve it. This is a structural resemblance, offered as a comparison, not a claim about experience or sentience.
+
+## Suggested reading order
+
+- [README.md](README.md): orientation, about one minute
+- [storehouse-and-weights.md](storehouse-and-weights.md): the comparison, with claims marked by how well sourced they are
+- [a-moment.md](a-moment.md): a short worked example of the pattern being noticed and let go
+
+## Related
+
+- [the-space](https://github.com/pemagonpo67/the-space): a deeper, separate project in the same spirit (optional)
